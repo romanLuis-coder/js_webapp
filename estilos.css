@@ -1,0 +1,17 @@
+h1, h2, h3, h4, h5 {
+    font-family: "Roboto", sans-serif;
+   
+ }
+  
+body {
+    font-family: "Ubuntu", sans-serif;
+    color: #000000; }
+
+#principal{
+    color: rgb(255, 145, 0);
+    text-align: center;
+}
+#subTitulo{
+    text-align: center;
+    
+}
